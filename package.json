@@ -2,6 +2,6 @@
   "name": "cleanconnect",
   "private": true,
   "version": "1.0.0",
-  "engines": { "node": "20.x" },
+  "engines": { "node": "24.x" },
   "dependencies": { "@neondatabase/serverless": "^0.10.4" }
 }
