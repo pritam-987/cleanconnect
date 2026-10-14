@@ -12,7 +12,8 @@ The application runs as a simple Node.js server with a static frontend - no data
 
 ## Screenshots
 
-![CleanConnect Screenshot](public/screenshot.png)
+<img width="1828" height="974" alt="image" src="https://github.com/user-attachments/assets/23964132-4274-4095-9468-52c747f822de" />
+
 
 *Add a screenshot of the application here*
 
